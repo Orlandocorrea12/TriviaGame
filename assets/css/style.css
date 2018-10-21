@@ -1,0 +1,25 @@
+body{
+    background: url(../images/game-of-thrones-1-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: fill;
+
+}
+#introPage{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.border{
+    background-color: #ffffff;
+    margin-top: 100px;
+}
+#mainPage p{
+    font-size: 30px;
+    
+}
+#outroPage p{
+    font-size: 30px;
+}
+#outroPage h2{
+    font-size: 40px;
+}
